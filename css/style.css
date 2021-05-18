@@ -1,0 +1,36 @@
+div {
+  border: 6px solid teal;
+  background-color: red;
+  margin: 5px;
+  padding: 5px;
+}
+
+#content {
+  border: 8px solid 33;
+  background-color: aqua;
+  margin: auto;
+  width: 70%;
+}
+
+.linksBox {
+  background-color: orange;
+}
+
+#headerbox {}
+
+.linksBox,
+.textBox {
+  border-radius: 30px;
+}
+.textBox {
+overflow: auto;
+}
+a {}
+
+a:hover {}
+
+.textBox img {
+  float: left;
+}
+
+a:visited {}
